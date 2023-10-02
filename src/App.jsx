@@ -13,6 +13,7 @@ function App() {
     <Greeting name="Natalia" mystyle="lavender" />
     <Greeting name="Natalia" mystyle="lightcoral" />
     <Greeting name="Natalia" mystyle="lightpink" />
+    <Greeting name="Natalia" mystyle="lightpink" />
 
     {/* <span style={{color: 'lavender'}}>Hello</span>
 
